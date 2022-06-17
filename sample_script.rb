@@ -1,2 +1,2 @@
-print "Hello Ruby!\n"
-print "Goodbye Ruby!\n"
+print "Test sample!\n"
+print "this is sample script!\n"
